@@ -53,14 +53,14 @@ background-position: right
 library(metathis)
 meta() %>%
   meta_general(
-    description = "Welcome",
+    description = "Ajay Koli - Vishwakarma University",
     generator = "xaringan and remark.js"
   ) %>% 
   meta_name("github-repo" = "koliajaykr/plagiarism-zotero") %>% 
   meta_social(
     title = "Effective Citation & Referencing to avoid Plagiarism",
     url = "https://plag-zotero.netlify.app/",
-    image = "https://github.com/koliajaykr/plagiarism-zotero/blob/main/images/social-card.png",
+    image = "https://plag-zotero.netlify.app/images/social-card.png",
     og_type = "talk",
     og_author = "Ajay Koli",
     twitter_card_type = "summary_large_image",
