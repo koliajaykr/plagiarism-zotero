@@ -99,9 +99,9 @@ Image credit: [Angela Compagnone](https://images.unsplash.com/photo-1552385430-5
 
 class: center, middle
 
-.green["Gah. Not all resolved. I still didn’t have an argument. I couldn’t just report data analysis and X. I had to say what X and our data together meant for how we thought differently about X.]
+.green["Gah. Not all resolved. I still didn’t have an argument. I couldn’t just report data analysis and X. I had to say what X and our data together meant for how we thought differently about X.] 
 --
-.blue[And so what! The paper had to take the reader somewhere.] 
+.blue[ And so what! The paper had to take the reader somewhere.] 
 --
 .red[I had to find an angle that would be of interest to the journal readers, and would actually advance the conversation that had gone on."] 
 
@@ -234,6 +234,7 @@ Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/h
 ]
 
 ---
+class: hide-count
 
 # Effective Citation:
 
@@ -245,11 +246,28 @@ Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/h
 
 --
 
-- Include possible latest papers
+- Use a good reference management tool like [Zotero](https://www.zotero.org/) `r emo::ji("sunglasses")`
 
 --
 
-- Use a good reference management tool like [Zotero](https://www.zotero.org/) `r emo::ji("sunglasses")`
+- Include possible latest papers
+
+```{r out.width="45%", fig.align='right'}
+knitr::include_graphics("https://pbs.twimg.com/media/FFrkQJtVQAI7yTW?format=jpg&name=900x900")
+```
+
+.footnote[
+Image source: [@JazliAziz](https://twitter.com/JazliAziz/status/1466735597125390336/photo/1)
+]
+
+
+
+---
+class: inverse, hide-count, center, middle
+
+background-image: url("https://localist-images.azureedge.net/photos/723905/original/25d3b1bf915e07897876757209f1c07db60c267f.png")
+background-size: 50%
+background-position: 50% 50%
 
 ---
 
